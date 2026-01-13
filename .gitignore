@@ -1,0 +1,28 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+MLSpe_venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# Large Data Files (optional, un-comment if you want to exclude datasets)
+# *.csv
+# *.zip
+# *.tar.gz
